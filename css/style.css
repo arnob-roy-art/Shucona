@@ -1,0 +1,122 @@
+@media (max-width: 990px){
+    .custom-nav-style{
+        margin-bottom: 10px;
+    }
+    .responsive-text-banner{
+        padding-top: 55px !important;
+        padding-left: 37px !important;
+        font-size: 28px !important;
+    }
+    .responsive-text-banner span{
+        font-size: 37px !important;
+    }
+}
+@media (max-width: 900px){
+    .responsive-text-banner{
+        padding-top: 45px !important;
+        padding-left: 33px !important;
+        font-size: 26px !important;
+    }
+    .responsive-text-banner span{
+        font-size: 34px !important;
+    }
+}
+@media (max-width: 750px){
+    .responsive-text-banner{
+        padding-top: 37px !important;
+    }
+}
+@media (max-width: 690px){
+    .responsive-text-banner{
+        padding-top: 22px !important;
+        padding-left: 16px !important;
+        font-size: 22px !important;
+    }
+    .responsive-text-banner span{
+        font-size: 28px !important;
+    }
+}
+@media (max-width: 500px){
+    .responsive-text-banner{
+        padding-top: 20px !important;
+        padding-left: 10px !important;
+        font-size: 20px !important;
+    }
+    .responsive-text-banner span{
+        font-size: 25px !important;
+    }
+}
+.responsive-text-banner{
+    padding-top: 80px;
+    padding-left: 40px;
+    font-size: 30px;
+}
+.responsive-text-banner span{
+    font-size: 40px;
+    color: tomato;
+}
+.banner-css{
+    margin-top: 115px;
+    margin-bottom: 30px;
+}
+.logo-color{
+    color: rgb(251, 120, 96) !important;
+}
+@media (min-width:784px){
+    .responsive-text-h4{
+        font-size: 20px !important;
+    }
+}
+@media (min-width:784px){
+    .responsive-text-h4{
+        font-size: 20px !important;
+    }
+    .aligned-text-h4-first{
+        margin-top: 38px !important;
+    }
+    .aligned-text-h4-second{
+        margin-top: 36px !important;
+    }
+    .aligned-text-h4-third{
+        margin-top: 29px !important;
+    }
+}
+@media (max-width:784px){
+    .responsive-text-h4{
+        font-size: 15px !important;
+    }
+    .aligned-text-h4-first{
+        margin-top: 38px !important;
+    }
+    .aligned-text-h4-second{
+        margin-top: 36px !important;
+    }
+    .aligned-text-h4-third{
+        margin-top: 29px !important;
+    }
+}
+@media (max-width:600px){
+    .responsive-margin-overview{
+        margin-top: 70px !important;
+    }
+}
+.responsive-text-h2{
+    color: rgb(250, 121, 98) !important;
+    margin-top: 14px;
+    margin-bottom: 170px;
+}
+@media (min-width: 600px){
+    .margin-bottom-style{
+        margin-bottom: 170px;
+    }
+}
+@media (max-width: 600px){
+    .responsive-overview{
+        margin-top: 130px;
+        margin-bottom: -50px;
+    }
+}
+
+
+
+
